@@ -1,0 +1,5 @@
+C:\Users\slugg\Desktop\Новая папка (2)\CardHolder.exe
+C:\Users\slugg\Desktop\Новая папка (2)\CardHolder.dll
+C:\Users\slugg\Desktop\Новая папка (2)\CardHolder.deps.json
+C:\Users\slugg\Desktop\Новая папка (2)\CardHolder.runtimeconfig.json
+C:\Users\slugg\Desktop\Новая папка (2)\CardHolder.pdb
